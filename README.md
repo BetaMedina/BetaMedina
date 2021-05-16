@@ -6,6 +6,9 @@
 		<a href="https://www.instagram.com/joao_pmedina/">
 			<img src="https://img.shields.io/badge/Instagram-blue"/>
 		</a>
+ 		 <a href="https://mail.google.com">
+			<img src="https://img.shields.io/badge/joaopedromedina@outlook.com-blue"/>
+		</a> 
       <a href="https://mail.google.com">
 			<img src="https://img.shields.io/badge/joaopedromedinadeandrade@gmail.com-red"/>
 		</a> <br/> <br/>
