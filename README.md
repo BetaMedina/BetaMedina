@@ -11,14 +11,13 @@
 		</a> 
       <a href="https://mail.google.com">
 			<img src="https://img.shields.io/badge/joaopedromedinadeandrade@gmail.com-red"/>
-		</a> <br/> <br/>
-		<a href="#-CODE"><img src="https://github.com/th14g0d3v/th14g0d3v/raw/master/public/welcome.png" alt="alt text" title="image" style="max-width:100%;"></a>
+		</a>
 	</h1>	
-</div><br/>
+</div>
 
 <div align=center>
 	<h3> I'm a Programmer </h3>
-	<span> 🔭 I’m currently working in UOL Group. </span><br/>
+	<span> 🔭 I’m currently working in Intelipost group. </span><br/>
 	<span> 🌱 I’m currently :man_technologist: learning and working with: React, Node, Flutter, Typescript, Kafka, RabbitAmpq, AWS and Serverless. </span><br/>
 	<span> 💬 Ask me about games and the life.</span>
 </div><hr/><br/>
