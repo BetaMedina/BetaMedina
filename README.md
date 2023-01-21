@@ -22,8 +22,4 @@
 	<span> 💬 Ask me about games and the life.</span>
 </div><hr/><br/>
 
-<div align=center>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betamedina&theme=dark&hide=contribs,prs&count_private=true)
-
-</div>
