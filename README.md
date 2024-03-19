@@ -17,7 +17,7 @@
 
 <div align=center>
 	<h3> I'm a Programmer </h3>
-	<span> 🔭 I’m currently working in Intelipost group. </span><br/>
+	<span> 🔭 I’m currently working on Grupo boticario group. </span><br/>
 	<span> 🌱 I’m currently :man_technologist: learning and working with: React, Node, GoLang, Typescript, Kafka, PubSub, RabbitAmpq, AWS and Serverless. </span><br/>
 	<span> 💬 Ask me about games and the life.</span>
 </div><hr/><br/>
